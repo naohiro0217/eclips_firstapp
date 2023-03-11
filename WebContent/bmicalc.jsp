@@ -22,7 +22,6 @@
 	bmi = weight / (height * height);
 
 	out.println("あなたのBMIは、" + bmi + "です。");
-
 %>
 
 </body>
